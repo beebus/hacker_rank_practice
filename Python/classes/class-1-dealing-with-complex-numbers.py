@@ -13,7 +13,7 @@ class Complex(complex):
         return Complex(complex.__mul__(self, no))
 
     def __truediv__(self, no):
-        return Complex(complex.__truediv__(self, no))
+        return (Complex(complex.__truediv__(self, no)) + 0) # converts -0.00i to +0.00i
 
     def mod(self):
         return Complex(complex.__abs__(self))
