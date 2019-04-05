@@ -7,15 +7,11 @@ import os
 import random
 import re
 import sys
+import string
 
 # Complete the solve function below.
 def solve(s):
-    words = []
-    r = ""
-    words = re.split('\s+', s)
-    for word in words:
-        word = word.capitalize()
-        r += word + " "
+    r = string.capwords(s, ' ')
     return r
 
 if __name__ == '__main__':
@@ -28,3 +24,4 @@ if __name__ == '__main__':
     fptr.write(result + '\n')
 
     fptr.close()
+    
