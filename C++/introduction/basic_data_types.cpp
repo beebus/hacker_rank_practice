@@ -1,6 +1,6 @@
-\*
+/*
 https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/
-*\
+*/
 
 #include <iostream>
 #include <iomanip>
