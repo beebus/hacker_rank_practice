@@ -1,4 +1,4 @@
-\*
+/*
 https://www.hackerrank.com/challenges/arrays-introduction/
 
 You'll be given an array of N integers and you have to print the integers in the reverse order.
@@ -15,7 +15,7 @@ Constraints
 Output Format
 -------------
 Print the N integers of the array in the reverse order in a single line separated by a space.
-*\
+*/
 
 #include <iostream>     // std::cout, std::cin
 using namespace std;
