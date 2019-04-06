@@ -1,4 +1,4 @@
-\*
+/*
 https://www.hackerrank.com/challenges/variable-sized-arrays/
 
 Input Format
@@ -10,7 +10,7 @@ Each of the q subsequent lines contains two space-separated integers describing 
 Output Format
 -------------
 For each pair of i and j values (i.e., for each query), print a single integer denoting the element located at index j of the array referenced by a[i]. There should be a total of q lines of output.
-*\
+*/
 
 #include <vector>
 #include <iostream>
