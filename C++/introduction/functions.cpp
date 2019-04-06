@@ -1,4 +1,4 @@
-\*
+/*
 https://www.hackerrank.com/challenges/c-tutorial-functions/problem
 
 Input Format
@@ -9,7 +9,7 @@ Output Format
 -------------
 Print the greatest of the four integers. 
 PS: I/O will be automatically handled.
-*\
+*/
 
 #include <iostream>
 #include <cstdio>
