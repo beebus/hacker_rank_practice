@@ -1,4 +1,4 @@
-//https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/
+// https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/
 import java.util.*;
 
 public class Solution {
