@@ -1,4 +1,4 @@
---https://www.hackerrank.com/challenges/java-stdin-stdout/
+// https://www.hackerrank.com/challenges/java-stdin-stdout/
 import java.util.Scanner;   // Import the Scanner class
 
 public class Solution {
