@@ -1,4 +1,4 @@
--- https://www.hackerrank.com/challenges/java-output-formatting/
+// https://www.hackerrank.com/challenges/java-output-formatting/
 import java.util.Scanner;
 
 public class Solution {
