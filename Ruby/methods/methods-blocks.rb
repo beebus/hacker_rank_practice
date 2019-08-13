@@ -1,0 +1,11 @@
+# https://www.hackerrank.com/challenges/ruby-blocks/problem
+
+def factorial(n)
+  result = (1..n).reduce(1) { |all,x| all *= x }
+  yield(result)
+end
+
+n = gets.to_i
+factorial(n) do |result|
+  puts result
+end
