@@ -23,7 +23,7 @@ Sample Output
 1 Hello world
 2 I am a file
 3 Read me until end-of-file.
-*/
+ */
 
 import java.io.*;
 import java.util.*;
